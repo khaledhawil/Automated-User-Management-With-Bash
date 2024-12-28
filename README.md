@@ -18,7 +18,6 @@
 - A Linux system with Bash installed.
 - The openssl package for generating secure random passwords:
 ```bash
-￼Copy code
 sudo apt update && sudo apt install openssl  
 ```
 ## Scripts Overview
